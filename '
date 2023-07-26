@@ -1,0 +1,37 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch master
+# Your branch is up to date with 'origin/master'.
+#
+# Changes to be committed:
+#	modified:   0-O
+#	modified:   0-bubble_sort.c
+#	modified:   0-main.c
+#	modified:   1-O
+#	modified:   1-insertion_sort_list.c
+#	modified:   100-shell_sort.c
+#	modified:   1000-sort_deck.c
+#	modified:   101-O
+#	modified:   101-cocktail_sort_list.c
+#	modified:   102-O
+#	modified:   102-counting_sort.c
+#	modified:   103-O
+#	modified:   103-merge_sort.c
+#	modified:   104-O
+#	modified:   104-heap_sort.c
+#	modified:   105-O
+#	modified:   105-radix_sort.c
+#	modified:   106-O
+#	modified:   106-bitonic_sort.c
+#	modified:   107-O
+#	modified:   107-quick_sort_hoare.c
+#	modified:   2-O
+#	modified:   2-selection_sort.c
+#	modified:   3-O
+#	modified:   3-quick_sort.c
+#	modified:   README.md
+#	modified:   deck.h
+#	modified:   sort.h
+#
